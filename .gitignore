@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SonuBookstore/SonuBookstore/bin/Debug/net6.0
+/SonuBookstore/SonuBookstore/obj
+
+/SonuBookstore/.vs/SonuBookstore
